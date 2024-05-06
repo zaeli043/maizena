@@ -57,3 +57,16 @@ padding: 55px 0;
     border: 2px solid #531dcf;
     border-radius: 10px;
 }
+
+.produtos Li:hover{
+    border-color: coral;
+    font-size: 40px;
+}
+.produtos Li:active{
+    border-color: darkgreen;
+    font-size: 40px;
+}
+.produtos h2{
+    font-size: 30px;
+    font-weight: bold;
+}
